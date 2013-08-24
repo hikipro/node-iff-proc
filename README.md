@@ -1,4 +1,4 @@
 node-iff-proc
 =============
 
-Parse/Proc script of initflashfiles.txt in Windows Mobile package.
+Parse/Proc script for initflashfiles.txt in Windows Mobile package.
