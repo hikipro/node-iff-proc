@@ -2,7 +2,7 @@
     initflashfiles.txt parse/process script
     Written by HKPR Katya B. E.
     
-    This script released under HKPR License v0.1
+    This script released under MIT License.
 */
 
 var fs   = require('fs'),
